@@ -1,0 +1,9 @@
+.main-bg {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.unordered-list {
+  display: flex;
+}
